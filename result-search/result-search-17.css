@@ -1,0 +1,8 @@
+
+
+    .modal-content.registraion-form-bg {
+        background: linear-gradient(45deg, hsl(var(--color-primary) / 40%) 0%, hsl(var(--color-secondary) / 950%) 100%), url(result-search-17/result1.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }

@@ -1,0 +1,37 @@
+.faq-ask_17 {
+    padding: 60PX 0;
+}
+
+.faq-ask_17 .title {
+    color: hsl(var(--color-primary));
+}
+
+.faq-ask_17 .card {
+    border: 5px solid hsl(var(--color-primary));
+}
+.faq-ask_17 .gift-container .gift-img {
+    position: relative;
+    overflow: hidden;
+    height: 230px;
+    background-color: hsl(var(--color-white));
+}
+
+.faq-ask_17 .card .card-body i {
+    color: hsl(var(--color-primary));
+}
+.faq-ask_17 .card  {
+    transition: 0.5s;
+}
+
+
+.faq-ask_17 .card:hover  {
+    background: hsl(var(--color-primary) / 50%);
+    transform: scale(1.05);
+}
+
+.faq-ask_17 .card:hover .card-body i {
+    color: hsl(var(--color-white));
+}
+.faq-ask_17 .card:hover .card-body .card-subtitle {
+    color: hsl(var(--color-white));
+}

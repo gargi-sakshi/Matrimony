@@ -1,0 +1,13 @@
+
+.serach-profilepage-17 {
+    padding: 60px 0;
+}
+.title-profile:before {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 2px;
+    background: #C30102;
+    bottom: 0px;
+    left: calc(50% - 50px);
+}
